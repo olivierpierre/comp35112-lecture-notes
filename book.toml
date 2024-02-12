@@ -1,0 +1,6 @@
+[book]
+authors = ["Pierre Olivier"]
+language = "en"
+multilingual = false
+src = "src"
+title = "COMP35112 Part 1 Lecture Notes"
